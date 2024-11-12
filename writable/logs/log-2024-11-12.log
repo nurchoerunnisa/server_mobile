@@ -1,0 +1,328 @@
+CRITICAL - 2024-11-12 03:14:16 --> Error: Class "App\Models\LoginModel" not found
+[Method: GET, Route: login]
+in APPPATH\Controllers\LoginController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\LoginController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\server-mobile\\public\\index.php')
+CRITICAL - 2024-11-12 03:28:00 --> Error: Class "App\Models\LoginModel" not found
+[Method: GET, Route: login]
+in APPPATH\Controllers\LoginController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\LoginController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\server-mobile\\public\\index.php')
+CRITICAL - 2024-11-12 03:33:14 --> Error: Class "App\Models\LoginModel" not found
+[Method: GET, Route: login]
+in APPPATH\Controllers\LoginController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\LoginController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\server-mobile\\public\\index.php')
+CRITICAL - 2024-11-12 03:33:16 --> Error: Class "App\Models\LoginModel" not found
+[Method: GET, Route: login]
+in APPPATH\Controllers\LoginController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\LoginController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\server-mobile\\public\\index.php')
+CRITICAL - 2024-11-12 03:33:16 --> Error: Class "App\Models\LoginModel" not found
+[Method: GET, Route: login]
+in APPPATH\Controllers\LoginController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\LoginController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\server-mobile\\public\\index.php')
+CRITICAL - 2024-11-12 03:33:17 --> Error: Class "App\Models\LoginModel" not found
+[Method: GET, Route: login]
+in APPPATH\Controllers\LoginController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\LoginController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\server-mobile\\public\\index.php')
+CRITICAL - 2024-11-12 03:33:19 --> Error: Class "App\Models\LoginModel" not found
+[Method: GET, Route: login]
+in APPPATH\Controllers\LoginController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\LoginController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\server-mobile\\public\\index.php')
+CRITICAL - 2024-11-12 03:34:01 --> Error: Class "App\Models\LoginModel" not found
+[Method: GET, Route: login]
+in APPPATH\Controllers\LoginController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\LoginController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\server-mobile\\public\\index.php')
+CRITICAL - 2024-11-12 03:37:24 --> Error: Class "App\Model\LoginModel" not found
+[Method: GET, Route: login]
+in APPPATH\Controllers\LoginController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\LoginController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\server-mobile\\public\\index.php')
+CRITICAL - 2024-11-12 03:37:25 --> Error: Class "App\Model\LoginModel" not found
+[Method: GET, Route: login]
+in APPPATH\Controllers\LoginController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\LoginController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\server-mobile\\public\\index.php')
+ERROR - 2024-11-12 03:39:41 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in D:\laragon\www\server-mobile\system\Database\MySQLi\Connection.php:187
+Stack trace:
+#0 D:\laragon\www\server-mobile\system\Database\MySQLi\Connection.php(187): mysqli->real_connect('localhost', 'root', 'root', 'flutter_db', 3306, '', 0)
+#1 D:\laragon\www\server-mobile\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 D:\laragon\www\server-mobile\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#3 D:\laragon\www\server-mobile\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\laragon\www\server-mobile\system\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\laragon\www\server-mobile\system\BaseModel.php(714): CodeIgniter\Model->doFirst()
+#6 D:\laragon\www\server-mobile\app\Models\LoginModel.php(18): CodeIgniter\BaseModel->first()
+#7 D:\laragon\www\server-mobile\app\Controllers\LoginController.php(21): App\Models\LoginModel->getData('user@gmail.com', '12345678')
+#8 D:\laragon\www\server-mobile\system\CodeIgniter.php(933): App\Controllers\LoginController->index()
+#9 D:\laragon\www\server-mobile\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+#10 D:\laragon\www\server-mobile\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 D:\laragon\www\server-mobile\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 D:\laragon\www\server-mobile\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 D:\laragon\www\server-mobile\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 D:\laragon\www\server-mobile\system\rewrite.php(44): require_once('D:\\laragon\\www\\...')
+#15 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: YES) in D:\laragon\www\server-mobile\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 D:\laragon\www\server-mobile\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 D:\laragon\www\server-mobile\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#2 D:\laragon\www\server-mobile\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 D:\laragon\www\server-mobile\system\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+#4 D:\laragon\www\server-mobile\system\BaseModel.php(714): CodeIgniter\Model->doFirst()
+#5 D:\laragon\www\server-mobile\app\Models\LoginModel.php(18): CodeIgniter\BaseModel->first()
+#6 D:\laragon\www\server-mobile\app\Controllers\LoginController.php(21): App\Models\LoginModel->getData('user@gmail.com', '12345678')
+#7 D:\laragon\www\server-mobile\system\CodeIgniter.php(933): App\Controllers\LoginController->index()
+#8 D:\laragon\www\server-mobile\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+#9 D:\laragon\www\server-mobile\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\laragon\www\server-mobile\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#11 D:\laragon\www\server-mobile\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 D:\laragon\www\server-mobile\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 D:\laragon\www\server-mobile\system\rewrite.php(44): require_once('D:\\laragon\\www\\...')
+#14 {main}
+CRITICAL - 2024-11-12 03:39:41 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+[Method: GET, Route: login]
+in SYSTEMPATH\Database\BaseConnection.php on line 467.
+ 1 SYSTEMPATH\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `admin`
+WHERE `username` = :username:
+AND `password` = :password:
+ LIMIT 1', [...], false)
+ 3 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 5 APPPATH\Models\LoginModel.php(18): CodeIgniter\BaseModel->first()
+ 6 APPPATH\Controllers\LoginController.php(21): App\Models\LoginModel->getData('user@gmail.com', '12345678')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\LoginController->index()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\server-mobile\\public\\index.php')
+ERROR - 2024-11-12 03:39:43 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in D:\laragon\www\server-mobile\system\Database\MySQLi\Connection.php:187
+Stack trace:
+#0 D:\laragon\www\server-mobile\system\Database\MySQLi\Connection.php(187): mysqli->real_connect('localhost', 'root', 'root', 'flutter_db', 3306, '', 0)
+#1 D:\laragon\www\server-mobile\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 D:\laragon\www\server-mobile\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#3 D:\laragon\www\server-mobile\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\laragon\www\server-mobile\system\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\laragon\www\server-mobile\system\BaseModel.php(714): CodeIgniter\Model->doFirst()
+#6 D:\laragon\www\server-mobile\app\Models\LoginModel.php(18): CodeIgniter\BaseModel->first()
+#7 D:\laragon\www\server-mobile\app\Controllers\LoginController.php(21): App\Models\LoginModel->getData('user@gmail.com', '12345678')
+#8 D:\laragon\www\server-mobile\system\CodeIgniter.php(933): App\Controllers\LoginController->index()
+#9 D:\laragon\www\server-mobile\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+#10 D:\laragon\www\server-mobile\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 D:\laragon\www\server-mobile\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 D:\laragon\www\server-mobile\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 D:\laragon\www\server-mobile\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 D:\laragon\www\server-mobile\system\rewrite.php(44): require_once('D:\\laragon\\www\\...')
+#15 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: YES) in D:\laragon\www\server-mobile\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 D:\laragon\www\server-mobile\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 D:\laragon\www\server-mobile\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#2 D:\laragon\www\server-mobile\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 D:\laragon\www\server-mobile\system\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+#4 D:\laragon\www\server-mobile\system\BaseModel.php(714): CodeIgniter\Model->doFirst()
+#5 D:\laragon\www\server-mobile\app\Models\LoginModel.php(18): CodeIgniter\BaseModel->first()
+#6 D:\laragon\www\server-mobile\app\Controllers\LoginController.php(21): App\Models\LoginModel->getData('user@gmail.com', '12345678')
+#7 D:\laragon\www\server-mobile\system\CodeIgniter.php(933): App\Controllers\LoginController->index()
+#8 D:\laragon\www\server-mobile\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+#9 D:\laragon\www\server-mobile\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\laragon\www\server-mobile\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#11 D:\laragon\www\server-mobile\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 D:\laragon\www\server-mobile\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 D:\laragon\www\server-mobile\system\rewrite.php(44): require_once('D:\\laragon\\www\\...')
+#14 {main}
+CRITICAL - 2024-11-12 03:39:43 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+[Method: GET, Route: login]
+in SYSTEMPATH\Database\BaseConnection.php on line 467.
+ 1 SYSTEMPATH\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `admin`
+WHERE `username` = :username:
+AND `password` = :password:
+ LIMIT 1', [...], false)
+ 3 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 5 APPPATH\Models\LoginModel.php(18): CodeIgniter\BaseModel->first()
+ 6 APPPATH\Controllers\LoginController.php(21): App\Models\LoginModel->getData('user@gmail.com', '12345678')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\LoginController->index()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\server-mobile\\public\\index.php')
+ERROR - 2024-11-12 03:39:44 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in D:\laragon\www\server-mobile\system\Database\MySQLi\Connection.php:187
+Stack trace:
+#0 D:\laragon\www\server-mobile\system\Database\MySQLi\Connection.php(187): mysqli->real_connect('localhost', 'root', 'root', 'flutter_db', 3306, '', 0)
+#1 D:\laragon\www\server-mobile\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 D:\laragon\www\server-mobile\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#3 D:\laragon\www\server-mobile\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\laragon\www\server-mobile\system\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\laragon\www\server-mobile\system\BaseModel.php(714): CodeIgniter\Model->doFirst()
+#6 D:\laragon\www\server-mobile\app\Models\LoginModel.php(18): CodeIgniter\BaseModel->first()
+#7 D:\laragon\www\server-mobile\app\Controllers\LoginController.php(21): App\Models\LoginModel->getData('user@gmail.com', '12345678')
+#8 D:\laragon\www\server-mobile\system\CodeIgniter.php(933): App\Controllers\LoginController->index()
+#9 D:\laragon\www\server-mobile\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+#10 D:\laragon\www\server-mobile\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 D:\laragon\www\server-mobile\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 D:\laragon\www\server-mobile\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 D:\laragon\www\server-mobile\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 D:\laragon\www\server-mobile\system\rewrite.php(44): require_once('D:\\laragon\\www\\...')
+#15 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: YES) in D:\laragon\www\server-mobile\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 D:\laragon\www\server-mobile\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 D:\laragon\www\server-mobile\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#2 D:\laragon\www\server-mobile\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 D:\laragon\www\server-mobile\system\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+#4 D:\laragon\www\server-mobile\system\BaseModel.php(714): CodeIgniter\Model->doFirst()
+#5 D:\laragon\www\server-mobile\app\Models\LoginModel.php(18): CodeIgniter\BaseModel->first()
+#6 D:\laragon\www\server-mobile\app\Controllers\LoginController.php(21): App\Models\LoginModel->getData('user@gmail.com', '12345678')
+#7 D:\laragon\www\server-mobile\system\CodeIgniter.php(933): App\Controllers\LoginController->index()
+#8 D:\laragon\www\server-mobile\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+#9 D:\laragon\www\server-mobile\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\laragon\www\server-mobile\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#11 D:\laragon\www\server-mobile\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 D:\laragon\www\server-mobile\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 D:\laragon\www\server-mobile\system\rewrite.php(44): require_once('D:\\laragon\\www\\...')
+#14 {main}
+CRITICAL - 2024-11-12 03:39:44 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+[Method: GET, Route: login]
+in SYSTEMPATH\Database\BaseConnection.php on line 467.
+ 1 SYSTEMPATH\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `admin`
+WHERE `username` = :username:
+AND `password` = :password:
+ LIMIT 1', [...], false)
+ 3 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 5 APPPATH\Models\LoginModel.php(18): CodeIgniter\BaseModel->first()
+ 6 APPPATH\Controllers\LoginController.php(21): App\Models\LoginModel->getData('user@gmail.com', '12345678')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\LoginController->index()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\server-mobile\\public\\index.php')
+ERROR - 2024-11-12 03:39:50 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in D:\laragon\www\server-mobile\system\Database\MySQLi\Connection.php:187
+Stack trace:
+#0 D:\laragon\www\server-mobile\system\Database\MySQLi\Connection.php(187): mysqli->real_connect('localhost', 'root', 'root', 'flutter_db', 3306, '', 0)
+#1 D:\laragon\www\server-mobile\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 D:\laragon\www\server-mobile\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#3 D:\laragon\www\server-mobile\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\laragon\www\server-mobile\system\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\laragon\www\server-mobile\system\BaseModel.php(714): CodeIgniter\Model->doFirst()
+#6 D:\laragon\www\server-mobile\app\Models\LoginModel.php(18): CodeIgniter\BaseModel->first()
+#7 D:\laragon\www\server-mobile\app\Controllers\LoginController.php(21): App\Models\LoginModel->getData('user@gmail.com', '12345678')
+#8 D:\laragon\www\server-mobile\system\CodeIgniter.php(933): App\Controllers\LoginController->index()
+#9 D:\laragon\www\server-mobile\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+#10 D:\laragon\www\server-mobile\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 D:\laragon\www\server-mobile\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 D:\laragon\www\server-mobile\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 D:\laragon\www\server-mobile\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 D:\laragon\www\server-mobile\system\rewrite.php(44): require_once('D:\\laragon\\www\\...')
+#15 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: YES) in D:\laragon\www\server-mobile\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 D:\laragon\www\server-mobile\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 D:\laragon\www\server-mobile\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#2 D:\laragon\www\server-mobile\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 D:\laragon\www\server-mobile\system\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+#4 D:\laragon\www\server-mobile\system\BaseModel.php(714): CodeIgniter\Model->doFirst()
+#5 D:\laragon\www\server-mobile\app\Models\LoginModel.php(18): CodeIgniter\BaseModel->first()
+#6 D:\laragon\www\server-mobile\app\Controllers\LoginController.php(21): App\Models\LoginModel->getData('user@gmail.com', '12345678')
+#7 D:\laragon\www\server-mobile\system\CodeIgniter.php(933): App\Controllers\LoginController->index()
+#8 D:\laragon\www\server-mobile\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+#9 D:\laragon\www\server-mobile\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\laragon\www\server-mobile\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#11 D:\laragon\www\server-mobile\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 D:\laragon\www\server-mobile\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 D:\laragon\www\server-mobile\system\rewrite.php(44): require_once('D:\\laragon\\www\\...')
+#14 {main}
+CRITICAL - 2024-11-12 03:39:50 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+[Method: GET, Route: login]
+in SYSTEMPATH\Database\BaseConnection.php on line 467.
+ 1 SYSTEMPATH\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `admin`
+WHERE `username` = :username:
+AND `password` = :password:
+ LIMIT 1', [...], false)
+ 3 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 5 APPPATH\Models\LoginModel.php(18): CodeIgniter\BaseModel->first()
+ 6 APPPATH\Controllers\LoginController.php(21): App\Models\LoginModel->getData('user@gmail.com', '12345678')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\LoginController->index()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\server-mobile\\public\\index.php')
